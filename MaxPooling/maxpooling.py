@@ -21,9 +21,9 @@ def max_pooling(input_arr, window, stride):
     for i in range(fin_l):
         for j in range(fin_h):
             h_start = i * stride_h
-            h_end = h_start + pool_h
+            h_end = h_start + window_h
             l_start = j * stride_l
-            l_end = w_start + pool_l
+            l_end = l_start + window_l
 
             # Take the maximum value in the pooling region
             output[i, j] = np.max(input_arr[h_start:h_end, l_start:l_end])
@@ -31,7 +31,7 @@ def max_pooling(input_arr, window, stride):
     return output
 
 
-input_arr = np.arr([
+input_arr = np.array([
 [1,2,3,4,5,6],
 [4,3,6,8,9,7],
 [3,7,6,3,5,9],
