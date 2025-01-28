@@ -45,3 +45,18 @@ stride = (2,2)
 print(f"Initial input array: \n{input_arr}")
 output = max_pooling(input_arr, window, stride)
 print(f"Output after max pooling with window size of 2x2, and step size of 2.\n{output}")
+
+"""Output
+
+Initial input array:
+[[ 1  2  3  4  5  6]
+ [ 4  3  6  8  9  7]
+ [ 3  7  6  3  5  9]
+ [ 6  8  0  6  5  3]
+ [ 6  8  0  6  4  5]
+ [ 8  6  4  8 45  3]]
+Output after max pooling with window size of 2x2, and step size of 2.
+[[ 4.  8.  9.]
+ [ 8.  6.  9.]
+ [ 8.  8. 45.]]
+ """
