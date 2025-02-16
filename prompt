@@ -1,0 +1,14 @@
+Interview Question: Wildfire Suppression in a Forest
+Problem Statement
+You are given an N x M grid representing a forest where:
+
+T (Tree): Flammable trees that can catch fire.
+F (Fire): Fire spreads every tick to adjacent trees (up, down, left, right).
+S (Fire Station): A fire station that generates a firefighter every tick.
+. (Empty Space): Empty spaces that do not burn and can be walked on.
+W (Wall): Obstacles that neither fire nor firefighters can pass through.
+Each tick, two things happen:
+
+Fire Spreads: Any tree (T) adjacent to fire (F) catches fire.
+Firefighters Move: Firefighters move toward the nearest fire and extinguish it when they reach it. If multiple fires are equidistant, they choose arbitrarily.
+Your goal is to simulate the fire spread and suppression process until the fire is completely extinguished or no more trees are left to burn.

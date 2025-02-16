@@ -1,0 +1,180 @@
+No problem! Here's your **2-week coding interview study plan**, focusing on **data structures, algorithms, problem-solving, and mock interviews**. This plan balances **theory, coding practice, and interview strategies** for maximum effectiveness.
+
+---
+
+## **📅 Week 1: Core Data Structures & Algorithms**  
+Each day, review concepts and solve **3-5 problems** ranging from **easy to hard**.
+
+### **📌 Day 1: Arrays & Strings**  
+✅ **Topics:**  
+- Array manipulation (`reverse`, `rotate`, `merge`)
+- Sorting (`O(n log n)`) and searching (`O(log n)`)
+- Two-pointer technique  
+- Sliding window  
+
+📝 **Practice:**  
+- **Two Sum** (Easy)  
+- **Longest Substring Without Repeating Characters** (Medium)  
+- **Container with Most Water** (Medium)  
+- **Find First and Last Position in Sorted Array** (Medium)  
+
+---
+
+### **📌 Day 2: Linked Lists**  
+✅ **Topics:**  
+- Singly & doubly linked lists  
+- Fast/slow pointers (Floyd’s cycle detection)  
+- Reversing a linked list  
+- Merging lists  
+
+📝 **Practice:**  
+- **Reverse a Linked List** (Easy)  
+- **Merge Two Sorted Lists** (Easy)  
+- **Linked List Cycle Detection** (Medium)  
+- **Remove Nth Node from End of List** (Medium)  
+
+---
+
+### **📌 Day 3: Stacks & Queues**  
+✅ **Topics:**  
+- Stack operations (`push, pop, peek`)  
+- Queue operations (FIFO, deque)  
+- Monotonic stack technique  
+
+📝 **Practice:**  
+- **Valid Parentheses** (Easy)  
+- **Min Stack** (Medium)  
+- **Daily Temperatures** (Medium)  
+- **Sliding Window Maximum** (Hard)  
+
+---
+
+### **📌 Day 4: Recursion & Backtracking**  
+✅ **Topics:**  
+- Base case & recursive calls  
+- Backtracking pattern  
+
+📝 **Practice:**  
+- **Permutations** (Medium)  
+- **Generate Parentheses** (Medium)  
+- **Word Search** (Medium)  
+- **N-Queens** (Hard)  
+
+---
+
+### **📌 Day 5: Binary Trees & BSTs**  
+✅ **Topics:**  
+- DFS: Preorder, Inorder, Postorder  
+- BFS (Level-order traversal)  
+- Binary Search Trees (BSTs)  
+
+📝 **Practice:**  
+- **Invert Binary Tree** (Easy)  
+- **Validate Binary Search Tree** (Medium)  
+- **Lowest Common Ancestor of BST** (Medium)  
+- **Binary Tree Maximum Path Sum** (Hard)  
+
+---
+
+### **📌 Day 6: Heaps & Priority Queues**  
+✅ **Topics:**  
+- Min-heaps vs. max-heaps  
+- Heap-based sorting  
+
+📝 **Practice:**  
+- **Kth Largest Element in an Array** (Medium)  
+- **Top K Frequent Elements** (Medium)  
+- **Merge K Sorted Lists** (Hard)  
+
+---
+
+### **📌 Day 7: Graphs (DFS, BFS)**  
+✅ **Topics:**  
+- Adjacency list/matrix representation  
+- DFS & BFS traversals  
+- Cycle detection  
+
+📝 **Practice:**  
+- **Number of Islands** (Medium)  
+- **Course Schedule (Topological Sorting)** (Medium)  
+- **Word Ladder** (Hard)  
+
+---
+
+## **📅 Week 2: Advanced Concepts & Mock Interviews**  
+
+### **📌 Day 8: Dynamic Programming (DP Basics)**  
+✅ **Topics:**  
+- Recursion vs. DP  
+- Memoization & Tabulation  
+
+📝 **Practice:**  
+- **Climbing Stairs** (Easy)  
+- **House Robber** (Medium)  
+- **Longest Palindromic Substring** (Medium)  
+- **Coin Change** (Hard)  
+
+---
+
+### **📌 Day 9: Greedy Algorithms**  
+✅ **Topics:**  
+- When greedy works vs. when DP is needed  
+- Common problems  
+
+📝 **Practice:**  
+- **Jump Game** (Medium)  
+- **Interval Scheduling** (Medium)  
+- **Huffman Encoding** (Hard)  
+
+---
+
+### **📌 Day 10: Bit Manipulation & Math Tricks**  
+✅ **Topics:**  
+- XOR tricks  
+- Modulo arithmetic  
+
+📝 **Practice:**  
+- **Single Number** (Easy)  
+- **Power of Two** (Easy)  
+- **Sum of Two Integers Without `+` or `-`** (Medium)  
+
+---
+
+### **📌 Day 11: System Design Basics (For Senior Roles)**  
+✅ **Topics:**  
+- Scalability & caching  
+- REST API design  
+
+📝 **Practice:**  
+- **Design a URL Shortener**  
+- **Design a Rate Limiter**  
+
+---
+
+### **📌 Day 12: Mock Interview #1**  
+✅ **Tasks:**  
+- Solve **two** random interview problems **under time constraints**  
+- Review and optimize solutions  
+
+---
+
+### **📌 Day 13: Mock Interview #2 & Edge Cases**  
+✅ **Tasks:**  
+- Take another **mock interview**  
+- Focus on **edge cases and optimizations**  
+
+---
+
+### **📌 Day 14: Final Review & Strategy**  
+✅ **Tasks:**  
+- Revise key **data structures & algorithms**  
+- Practice **verbalizing solutions**  
+
+---
+
+## **🎯 Final Tips**
+✅ Prioritize **understanding over memorization**  
+✅ Use **LeetCode, HackerRank, CodeSignal** for hands-on practice  
+✅ Simulate **real interviews** with a **friend or online mock**  
+
+Would you like **additional resources** or a **customized plan based on your strengths/weaknesses**? 🚀
